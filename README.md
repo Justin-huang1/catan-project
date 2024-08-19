@@ -4,4 +4,4 @@ writing a catan game and then implementing a greedy AI to play the game as well 
 
 
 
-check commit
+make this shit work
